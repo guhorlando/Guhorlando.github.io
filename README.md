@@ -90,11 +90,11 @@ Neste repositório estará um site de usuário
   <div class="container">
 
     <div class="profile">
-      <img src="sua-foto.jpg" alt="Foto de Gustavo Orlando">
+      <img src="guh.jpg" alt="Foto de Gustavo Orlando">
       <div>
-        <h1>Guh Orlando</h1>
+        <h1>Gustavo Orlando</h1>
         <p>Estudante de Ciência da Computação na UNIFAL</p>
-        <p>Idade: [sua idade]</p>
+        <p>Idade: 19 anos</p>
       </div>
     </div>
 
@@ -112,6 +112,7 @@ Neste repositório estará um site de usuário
       <ul>
         <li>Toco bateria</li>
         <li>Curto treinar pesado na academia</li>
+        <li>Curto ficar sozinho, às vezes</li>
       </ul>
     </section>
 
