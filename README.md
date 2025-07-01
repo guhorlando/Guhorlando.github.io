@@ -1,7 +1,6 @@
 # Guhorlando.github.io
 Neste repositório estará um site de usuário
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -102,7 +101,7 @@ Neste repositório estará um site de usuário
       <h2>🎧 Meus Interesses</h2>
       <ul>
         <li>Ouvir músicas de diversos estilos</li>
-        <li>Videogames e tecnologia</li>
+        <li>Videogames, tecnologia e truco</li>
         <li>Ir a festas e sair com a família</li>
       </ul>
     </section>
